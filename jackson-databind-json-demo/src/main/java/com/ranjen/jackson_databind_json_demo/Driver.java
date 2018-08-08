@@ -4,6 +4,7 @@ import java.io.File;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 
+//this is separate test program compared to other package. Just run as application here.
 public class Driver {
 
 	public static void main(String[] args) {
