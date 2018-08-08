@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.ranjen</groupId>
-	<artifactId>jackson-databind-json-demo</artifactId>
+	<artifactId>jackson_databind_json_demo</artifactId>
 	<version>1.0.0</version>
 	<packaging>jar</packaging>
 

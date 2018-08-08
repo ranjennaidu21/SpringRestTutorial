@@ -1,4 +1,4 @@
-package com.ranjen.jacksondemo;
+package com.ranjen.jackson_databind_json_demo;
 
 import java.util.Arrays;
 
